@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318932621545",
+    "project_id": "ecommerce-dd41a",
+    "storage_bucket": "ecommerce-dd41a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318932621545:android:f1c3d2f0e736cc78fe7878",
+        "android_client_info": {
+          "package_name": "com.wdicap4.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318932621545-0pgsv2fli8868qh9urq4ua1anbcsdgia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPeyGdDchhmlQoJ0s9jaCm4ezU6ySWmG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318932621545-0pgsv2fli8868qh9urq4ua1anbcsdgia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
